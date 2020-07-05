@@ -1,6 +1,6 @@
 {
   "name": "basic-s3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic Class to handle s3 API Calls",
   "main": "index.js",
   "scripts": {
