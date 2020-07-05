@@ -1,0 +1,23 @@
+{
+  "name": "basic-s3",
+  "version": "1.0.0",
+  "description": "Basic Class to handle s3 API Calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dectom/Basic-S3.git"
+  },
+  "author": "Dectom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dectom/Basic-S3/issues"
+  },
+  "homepage": "https://github.com/Dectom/Basic-S3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.709.0",
+    "fs": "0.0.1-security"
+  }
+}
